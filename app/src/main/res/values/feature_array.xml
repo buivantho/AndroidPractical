@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feature_array">
+        <item>Login</item>
+        <item>Register</item>
+        <item>Dashboard</item>
+        <item>Profile</item>
+    </string-array>
+</resources>

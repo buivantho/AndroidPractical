@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Practical</string>
+    <string name="feedback_description">Enter feedback details to send to the developer:</string>
+    <string name="your_name">Your name</string>
+    <string name="your_email">Your email</string>
+    <string name="your_feedback_message">Your feedback message</string>
+    <string name="email_response_message">Would you like an email response</string>
+    <string name="send_feeback">Send feedback</string>
+</resources>
